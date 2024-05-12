@@ -1,6 +1,6 @@
 {
   "name": "rumrun",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "List, search and run package.json scripts",
   "repository": {
     "type": "git",
